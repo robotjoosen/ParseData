@@ -5,4 +5,5 @@
 !.gitignore
 !readme.md
 !_build/
+!_package/
 !core/
