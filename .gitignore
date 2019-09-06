@@ -1,0 +1,8 @@
+/*
+.DS_Store
+.idea
+
+!.gitignore
+!readme.md
+!_build/
+!core/
